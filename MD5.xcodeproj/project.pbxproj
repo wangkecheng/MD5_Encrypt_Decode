@@ -429,6 +429,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 2WJJ6Z5DGD;
 				INFOPLIST_FILE = MD5/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = warron.MD5;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,6 +442,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 2WJJ6Z5DGD;
 				INFOPLIST_FILE = MD5/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = warron.MD5;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -516,6 +518,7 @@
 				204D1B031D992D64005DA434 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		204D1B041D992D64005DA434 /* Build configuration list for PBXNativeTarget "MD5Tests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +527,7 @@
 				204D1B061D992D64005DA434 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		204D1B071D992D64005DA434 /* Build configuration list for PBXNativeTarget "MD5UITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +536,7 @@
 				204D1B091D992D64005DA434 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
